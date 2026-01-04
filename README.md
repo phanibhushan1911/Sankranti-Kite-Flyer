@@ -1,4 +1,4 @@
-**Ktie Flying Game**
+**Kite Flying Game**
 
 ## Run Locally
 
